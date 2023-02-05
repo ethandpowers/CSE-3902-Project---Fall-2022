@@ -1,5 +1,7 @@
 # CSE-3902-Project - Sprint 4
 
+NOTE: This repo is a clone of the private team project repo.
+
 This README file contains brief instructions/information regarding controls, features, and special cases for this project
 
 Firstly, here is a quick list of the (main) game controls - these may vary from point to point in the game:
