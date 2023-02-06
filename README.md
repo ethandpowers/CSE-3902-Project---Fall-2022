@@ -2,6 +2,8 @@
 
 NOTE: This repo is a clone of the private team project repo.
 
+For the multiplayer controller, we used a controller built with Flutter located [here](https://github.com/ethandpowers/BBCC-Controller.git).  For our server, we used NodeJS with websockets, which can be found [here](https://github.com/ethandpowers/BBCC-Server.git)
+
 This README file contains brief instructions/information regarding controls, features, and special cases for this project
 
 Firstly, here is a quick list of the (main) game controls - these may vary from point to point in the game:
